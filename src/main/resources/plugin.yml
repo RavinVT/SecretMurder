@@ -1,0 +1,8 @@
+name: SecretMurder
+version: '0.1-1.21.1'
+main: net.ravinvt.secretMurder.SecretMurder
+api-version: '1.21'
+prefix: SecretMurder
+authors: [ RavinVT ]
+description: This is a murder mystery plugin and should not be used on a server that isn't based around this plugin since it breaks certin mechanics
+website: https://github.com/RavinVT/SecretMurder
